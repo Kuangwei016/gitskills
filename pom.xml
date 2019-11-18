@@ -57,7 +57,7 @@
         <commons-httpclient.version>3.1</commons-httpclient.version>
         <commons-io.version>2.6</commons-io.version>
         <itextpdf.version>5.5.13.1</itextpdf.version>
-        <pdfbox.version>2.0.7</pdfbox.version>
+        <pdfbox.version>2.0.17</pdfbox.version>
         <openoffice.version>4.1.2</openoffice.version>
         <jodconverter.version>2.2.2</jodconverter.version>
         <sanselan.version>0.97-incubator</sanselan.version>
