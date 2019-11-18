@@ -48,7 +48,7 @@
         <bcprov-jdk15.version>1.60</bcprov-jdk15.version>
         <jacoco.version>0.7.9</jacoco.version>
         <axis2.version>1.6.2</axis2.version>    <!--强烈建议不用1.5.1以下版本，会联接超时 -->
-        <netty.version>4.1.12.Final</netty.version>
+        <netty.version>4.1.42.Final</netty.version>
         <lorne-core.version>1.0.0</lorne-core.version>
         <mybatis-plus-boot-starter.version>3.0.1</mybatis-plus-boot-starter.version>
         <openfeign-form.version>3.0.3</openfeign-form.version>
